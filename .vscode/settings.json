@@ -1,3 +1,7 @@
 {
-    "java.compile.nullAnalysis.mode": "automatic"
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": false,
+    "editor.cursorBlinking": "phase"
 }
